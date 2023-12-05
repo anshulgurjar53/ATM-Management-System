@@ -19,15 +19,15 @@ vii.  Mini Statement
 
 
 
-<img src="https://github.com/shreyansh2024it/ATM-SIMULATOR-System/blob/1ba655b86172f80a3d49f77062f499c10841a652/atm.PNG" alt="App Screenshot" width="300px" height="300px">
+<img src="https://github.com/anshulgurjar53/ATM-Simulator/assets/90499262/6b2d5ac8-66e3-4677-b015-6ecc4649d4f7" alt="App Screenshot" width="300px" height="300px">
 
 
 
-<img src="https://github.com/shreyansh2024it/ATM-SIMULATOR-System/blob/1ba655b86172f80a3d49f77062f499c10841a652/ATM%20interface.png" alt="App Screenshot" width="300px" height="300px">
+<img src="https://github.com/anshulgurjar53/ATM-Simulator/assets/90499262/299c4d39-71dc-4697-a6c6-29c4f26ce42b" alt="App Screenshot" width="300px" height="300px">
 
 
 
-<img src="https://github.com/shreyansh2024it/ATM-SIMULATOR-System/blob/483156b9cab98068ebacb3b055235ef000e3a52d/image.png" alt="App Screenshot" width="300px" height="300px">
+<img src="https://github.com/anshulgurjar53/ATM-Simulator/assets/90499262/4078d6ff-39f6-4b4f-a17a-af0e814a9770" alt="App Screenshot" width="300px" height="300px">
 
 
 
